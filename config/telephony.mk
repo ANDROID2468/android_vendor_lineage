@@ -8,7 +8,7 @@ PRODUCT_PACKAGES += \
 
 # Telephony packages
 PRODUCT_PACKAGES += \
-    messaging \
+    QKSMS \
     Stk \
     CellBroadcastReceiver
 
